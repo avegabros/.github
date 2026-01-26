@@ -21,5 +21,6 @@ labels: standup
 - [ ] **Status:**
 - [ ] **Details:**
 - [ ] **Action Items:**
----
+
+
 *Remember to assign this issue to yourself and close it at the end of your shift.*
